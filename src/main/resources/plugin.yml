@@ -1,0 +1,5 @@
+name: EpicSuggests
+version: '${project.version}'
+main: me.epic.epicsuggests.EpicSuggests
+api-version: 1.19
+authors: [ Epic, Jish ]
